@@ -37,8 +37,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/Kumneger49/stats-preview-card-component-main)
+- Live Site URL: [live site URL](https://kumneger49.github.io/stats-preview-card-component-main/)
 
 ### Built with
 
@@ -62,10 +62,8 @@ I want to do more practice and become more comfortable using bootstrap componene
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@kumneger49)
-- Twitter - [@yourusername](https://www.twitter.com/@kumneger49)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@KUMNEGER49](https://www.frontendmentor.io/profile/@kumneger49)
+- Twitter - [@KUMNEGER49](https://www.twitter.com/@kumneger49)
 
 ## Acknowledgments
 
